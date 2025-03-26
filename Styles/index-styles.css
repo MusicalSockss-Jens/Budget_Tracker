@@ -1,0 +1,17 @@
+.recap {
+  background-color: #4c564b;
+  display: flex;
+  gap: 50%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  justify-content: space-around;
+  border-radius: 5px;
+}
+.recapTit {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.transaction {
+  display: flex;
+  justify-content: space-around;
+}
